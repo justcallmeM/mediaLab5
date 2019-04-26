@@ -29,6 +29,8 @@ Option A:
   Every ws method is explained in the node_modules/ws/lib/package.json.
   With the use of these functions I believe we stream video by encoding images it to base32 and sending it to the client & vice versa.
 
+  <!--FULLY FUNCTIONAL WITH FIREFOX AND CHROME -->
+
 To fully launch this application one needs node.js and npm installed
 then to just in the (while being in the node.js folder) cmd write:
 -npm install
